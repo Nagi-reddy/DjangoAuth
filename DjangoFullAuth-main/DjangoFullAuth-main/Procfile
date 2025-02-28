@@ -1,0 +1,1 @@
+web gunicorn mysite.wspigi.application --log-file -
