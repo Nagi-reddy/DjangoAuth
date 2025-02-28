@@ -115,8 +115,8 @@ stack-data==0.6.3
 starkbank-ecdsa==2.2.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-tensorflow==2.18.0
-tensorflow_intel==2.18.0
+tensorflow
+tensorflow_intel
 termcolor==2.5.0
 terminado==0.18.1
 tinycss2==1.4.0
